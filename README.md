@@ -89,7 +89,8 @@ The application uses React Context API for state management, with separate conte
   
 ## Deployment:
 
-The frontend can be deployed on platforms like Netlify, Vercel, or GitHub Pages:
+The frontend can be deployed Netlify Url:
+https://stellular-marzipan-bb6b3d.netlify.app
 
 ## Contributing
 
